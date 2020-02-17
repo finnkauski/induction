@@ -1,0 +1,192 @@
+#+TITLE: Data Science Accelerator Induction
+#+SUBTITLE: Data Science Campus @ONS
+#+OPTIONS: num:nil toc:nil email:nil timestamp:nil reveal_history:t author:nil
+#+REVEAL_THEME: white
+#+REVEAL_TRANS: none
+
+#+BEGIN_EXPORT html
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+<html>
+<head>
+  <link href=
+  "https://fonts.googleapis.com/css?family=Courier+Prime&amp;display=swap"
+  rel="stylesheet" type="text/css">
+  <style type="text/css">
+  .reveal section h1,
+        .reveal section h2,
+        .reveal section h3,
+        .reveal section h4,
+
+        .reveal section {
+                font-family: 'Courier Prime', monospace;
+   }
+   li {
+         margin: 20px 0;
+   }
+  </style>
+
+  <title></title>
+</head>
+
+<body>
+</body>
+</html>
+#+END_EXPORT
+
+
+* Who am I?
+Art Eidukas,
+- degree: BSc Economics
+- email: [[mailto:arturas.eidukas@ons.gov.uk][arturas.eidukas@ons.gov.uk]]:
+- website: [[https://finnkauski.com][https://finnkauski.com]]
+- github: [[https://github.com/finnkauski][@finnkauski]]
+
+* Career Path
+- Economist (Sandwich Student)
+- Economic Researcher
+  - Data Science Accelerator
+- Data Scientist (HEO)
+- Data Scientist (SEO)
+- Software Developer / DevOps (G7)
+
+* Pre-accelerator
+- General interest in computers
+- Age 13 attended computer training courses
+
+** Constantly playing with tech
+- Used to build game servers at age 14+ with friends
+- Build websites for the fun of it
+- Stopped after school
+
+** In ONS (Prices)
+- Sandwich students workload
+- Learned python just to avoid SAS
+- Applied python to my hobbies at home
+- Showed value and they kept giving me more work
+- Decided that being an economist was not for me
+
+* Accelerator
+- No ML knowledge before this (shaky knowledge of stats)
+- Prices focused project
+- Match online and offline item descriptions
+
+* Example
+#+BEGIN_QUOTE
+aisle6 cereal red packging Spc. K
+
+vs.
+
+'Special K', berry flavour cereal, 250g
+#+END_QUOTE
+
+* Outcome
+- Was not that useful in the end
+- Helped me land my first Data Scientist job in government
+
+** Takeaways [1/2]
+- Didn't know enough about Natural Language Processing to solve the problem
+- Demystified the voodoo behind the term Data Science
+- No need to code Neural Networks from scratch
+
+** Takeaways [2/2]
+- You need to debug and read a lot
+- Multiple ways to achieve similar things
+- I needed a better grasp of algorithm strengths and weaknesses
+
+** Algorithms be like:
+[[https://imgs.xkcd.com/comics/algorithms.png]]
+
+* Lesson 1
+
+#+BEGIN_QUOTE
+Don't fear to fail!
+#+END_QUOTE
+Two outcomes from this programme:
+- Some value from sucessful prototype for the respective departments
+- Your development
+
+* Challenges / Tips
+
+** 1. Data - Be a Data Sceptic
+
+#+BEGIN_QUOTE
+DO NOT assume you have the data.
+
+MAKE SURE you have it.
+#+END_QUOTE
+
+Even before the first mentoring day, chase and pester people who promised you
+the data for the project if you don't have it already.
+
+** Side note - Data Security
+
+- Chase people on what kind of precautions you need to take when handling the
+  data.
+
+- Ask who can see it, where it can be stored and how it can be transported.
+
+Better safe than sorry!
+
+** 2. Coding experience
+
+- When I started the accelerator I thought I was good enough
+- I learned a lot in a very short period of time
+- Learned tons of new libraries
+
+** No silver bullet
+
+- If you haven't coded before it will be harder 
+- Learning to code something is an 'easy' win
+- Often times it will be more valuable than the Data Science side
+
+** Tips:
+
+- Learn by doing - read, extract key knowledge and apply (GeoHotz)
+- Mentors - but don't expect them to write code for you
+
+** 3. Tedium of Data Massaging
+
+- Flipping data and shoehorning it into the right shape is tedious
+- 80% of data science
+- The more you prepare upfront, the more of the 20% you will end up doing
+
+** However...
+
+- Learning to wrangle data is key
+- The better you know the how, the faster you'll do it next time
+
+
+* The Number 12
+
+Why do you think I'm bringing it up?
+
+** You will be working against the clock
+    This programme boils down to 12 working days
+
+** Here's why:
+#+BEGIN_EXPORT html
+<iframe width="912" height="768" src="https://www.youtube.com/embed/x9wn633vl_c"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+picture-in-picture" allowfullscreen></iframe>
+
+#+END_EXPORT
+
+** Tips [1/2]:
+- Plan (roughly)
+- Eyes one the prize. Don't go down rabbitholes
+- Working pipeline (MVP)
+
+** Tips [2/2]
+- Take notes on where you can improve things
+- You will have to be aware and adult about your trade-offs
+- Ambition is good but mind the trade-off
+
+* Lesson 2:
+
+#+BEGIN_QUOTE
+If you have a proof of concept that *adds value*, you can always build on it.
+
+Bells and whistles can wait.
+#+END_QUOTE
+

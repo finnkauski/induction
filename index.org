@@ -1,4 +1,4 @@
-#+TITLE: Data Science Accelerator Induction
+#+TITLE: Data Science Accelerator
 #+SUBTITLE: Data Science Campus @ONS
 #+OPTIONS: num:nil toc:nil email:nil timestamp:nil reveal_history:t author:nil
 #+REVEAL_THEME: white
@@ -34,33 +34,36 @@
 </html>
 #+END_EXPORT
 
-
-* Who am I?
+* Lets set the scene...
+** Who am I?
 Art Eidukas,
 - degree: BSc Economics
+- role: Software Developer / Devops
 - email: [[mailto:arturas.eidukas@ons.gov.uk][arturas.eidukas@ons.gov.uk]]:
 - website: [[https://finnkauski.com][https://finnkauski.com]]
 - github: [[https://github.com/finnkauski][@finnkauski]]
 
-* Career Path
+** Career Path
+2015 September
 - Economist (Sandwich Student)
-- Economic Researcher
+- Economic Researcher (HEO)
   - Data Science Accelerator
 - Data Scientist (HEO)
 - Data Scientist (SEO)
 - Software Developer / DevOps (G7)
+Now
 
-* Pre-accelerator
+** Pre-accelerator
 - General interest in computers
 - Age 13 attended computer training courses
 
-** Constantly playing with tech
+*** Constantly playing with tech
 - Used to build game servers at age 14+ with friends
 - Build websites for the fun of it
-- Stopped after school
+- Came to a halt after finishing school
 
-** In ONS (Prices)
-- Sandwich students workload
+*** In ONS (Prices)
+- Sandwich students workload limbo
 - Learned python just to avoid SAS
 - Applied python to my hobbies at home
 - Showed value and they kept giving me more work
@@ -81,13 +84,21 @@ vs.
 #+END_QUOTE
 
 * Outcome
-- Was not that useful in the end
-- Helped me land my first Data Scientist job in government
+- Was not that useful in the end (some projects spin-off)
+- Helped me land my first Data Scientist job in government (book)
+- Allowed me to stop being an Economist and pursue code
+
+** We're all different
+[[https://images.squarespace-cdn.com/content/v1/5150aec6e4b0e340ec52710a/1364352051365-HZAS3CLBF7ABLE3F5OBY/ke17ZwdGBToddI8pDm48kB2M2-8_3EzuSSXvzQBRsa1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxPe_8B-x4gq2tfVez1FwLYYZXud0o-3jV-FAs7tmkMHY-a7GzQZKbHRGZboWC-fOc/Data_Science_VD.png]]
+
+** A bit more detail
+[[https://www.kdnuggets.com/wp-content/uploads/data-scientist-venn-diagram.png]]
 
 ** Takeaways [1/2]
 - Didn't know enough about Natural Language Processing to solve the problem
-- Demystified the voodoo behind the term Data Science
+- Demystified the voodoo behind the term Machine Learning
 - No need to code Neural Networks from scratch
+- Big push now is to democratise DS making it easier for anyone to do
 
 ** Takeaways [2/2]
 - You need to debug and read a lot
@@ -105,6 +116,7 @@ Don't fear to fail!
 Two outcomes from this programme:
 - Some value from sucessful prototype for the respective departments
 - Your development
+- Optimising contact time
 
 * Challenges / Tips
 
@@ -136,7 +148,7 @@ Better safe than sorry!
 
 ** No silver bullet
 
-- If you haven't coded before it will be harder 
+- If you haven't coded before it will be harder (but you learn patterns)
 - Learning to code something is an 'easy' win
 - Often times it will be more valuable than the Data Science side
 
@@ -174,13 +186,13 @@ picture-in-picture" allowfullscreen></iframe>
 
 ** Tips [1/2]:
 - Plan (roughly)
-- Eyes one the prize. Don't go down rabbitholes
+- Eyes one the prize. Don't go down rabbitholes (be self-aware)
 - Working pipeline (MVP)
 
 ** Tips [2/2]
 - Take notes on where you can improve things
-- You will have to be aware and adult about your trade-offs
-- Ambition is good but mind the trade-off
+- Be aware of skills, time, learning, delivery trade-offs
+- Ambition is good, but within reason
 
 * Lesson 2:
 
@@ -190,3 +202,49 @@ If you have a proof of concept that *adds value*, you can always build on it.
 Bells and whistles can wait.
 #+END_QUOTE
 
+
+* Resources
+** The One Book
+[[https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg]]
+
+Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow
+
+** Contents [1/2]
+
+- Chapter 1. The Machine Learning Landscape
+- Chapter 2. End-to-End Machine Learning Project
+- Useful to keep the structure in mind
+
+** Contents [2/2]
+
+- First half: The Fundamentals of Machine Learning
+- Second half: Neural Networks and Deep Learning
+
+** Other resources [1/2]
+- Search Engines
+- StackOverflow
+- Coursera (Mathematics of Machine Learning is great)
+- udemy
+  
+** Other resources [2/2]
+- Introduction to Statistical Learning
+- Mentors
+- pycon & pydata videos / general Youtube
+- Official documentation
+
+* Summary
+
+** Focus
+- Get rid of distractions
+- Eyes on the prize
+- Don't get bogged down
+
+** Learn
+- From Mentors
+- From resources
+- From each other
+
+** Organise
+- Know when to cut losses
+- Know what you will be doing next week
+- Get your data in order

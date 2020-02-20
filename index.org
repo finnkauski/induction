@@ -1,6 +1,6 @@
 #+TITLE: Data Science Accelerator
 #+SUBTITLE: Data Science Campus @ONS
-#+OPTIONS: num:nil toc:nil email:nil timestamp:nil reveal_history:t author:nil
+#+OPTIONS: num:nil toc:nil email:nil timestamp:nil reveal_history:t author:nil reveal_slide_number:nil
 #+REVEAL_THEME: white
 #+REVEAL_TRANS: none
 #+REVEAL_SLIDE_NUMBER: nil

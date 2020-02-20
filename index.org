@@ -3,6 +3,8 @@
 #+OPTIONS: num:nil toc:nil email:nil timestamp:nil reveal_history:t author:nil
 #+REVEAL_THEME: white
 #+REVEAL_TRANS: none
+#+REVEAL_SLIDE_NUMBER: nil
+
 
 #+BEGIN_EXPORT html
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
@@ -23,6 +25,16 @@
    }
    li {
          margin: 20px 0;
+         font-size: 0.8em;
+   }
+   p {
+         font-size: 0.8em;
+   }
+   img {
+     border: 0px !important;
+     box-shadow: 0 0 !important;
+     height: auto !important;
+     max-width: 60% !important;
    }
   </style>
 
@@ -176,9 +188,9 @@ Why do you think I'm bringing it up?
 ** You will be working against the clock
     This programme boils down to 12 working days
 
-** Here's why:
+* ‎
 #+BEGIN_EXPORT html
-<iframe width="912" height="768" src="https://www.youtube.com/embed/x9wn633vl_c"
+<iframe width="500" height="400" src="https://www.youtube.com/embed/x9wn633vl_c"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
 picture-in-picture" allowfullscreen></iframe>
 
@@ -206,9 +218,6 @@ Bells and whistles can wait.
 * Resources
 ** The One Book
 [[https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg]]
-
-Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow
-
 ** Contents [1/2]
 
 - Chapter 1. The Machine Learning Landscape
@@ -248,3 +257,7 @@ Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow
 - Know when to cut losses
 - Know what you will be doing next week
 - Get your data in order
+* ‎
+:PROPERTIES:
+:reveal_background: https://media.giphy.com/media/hRCf4TvJCDk58EPrBK/giphy.gif
+:END:
